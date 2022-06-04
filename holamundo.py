@@ -2,7 +2,7 @@
 print("hola mundol")
 numero=int(input("numero"))
 if numero%2==0:
-    print("es par")
+    print("ES PAR")
 else:
     print("es impar")
 
